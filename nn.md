@@ -1,18 +1,18 @@
-#NLP
-##Word2Vec, FastText
-v https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c
-##FastText embeddings download
+# NLP
+## Word2Vec, FastText
+https://towardsdatascience.com/word-embedding-with-word2vec-and-fasttext-a209c1d3e12c
+## FastText embeddings download
 https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md
-##FastText paper
+## FastText paper
 https://arxiv.org/pdf/1607.04606.pdf
 https://arxiv.org/abs/1607.01759
 
-#TensorFlow
+# TensorFlow
 ## tfrecords
 https://stackoverflow.com/questions/46023984/tensorflow-dataset-api-read-csv-converted-tfrecords
 http://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/21/tfrecords-guide/
 
-##Stanford
+## Stanford
 https://cs230-stanford.github.io
 
 ## AWS GPU instance + tensorflow
