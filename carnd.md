@@ -10,3 +10,4 @@ http://people.csail.mit.edu/dannyf/traj.pdf
 
 [Hybrid A* Stanford urban challenge](src/junior-the-stanford-entry-in-the-urban-challenge.pdf)
 
+[Polynomial trajectory generation](src/werling-optimal-trajectory-generation-for-dynamic-street-scenarios-in-a-frenet-frame.pdf)
